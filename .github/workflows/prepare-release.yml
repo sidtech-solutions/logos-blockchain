@@ -74,7 +74,7 @@ jobs:
           - os: macos
             os-display: MacOS
             arch: aarch64
-            builder: macos-15
+            builder: bladerunner-macos
             target_triple: aarch64-apple-darwin
 
     steps:
