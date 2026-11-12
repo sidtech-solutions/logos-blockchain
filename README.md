@@ -2,6 +2,8 @@
 
 # Logos Blockchain
 
+# made to test CI
+
 **A privacy-preserving, censorship-resistant blockchain for decentralized network states.**
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/logos-co/logos-blockchain/blob/master/LICENSE-MIT)
